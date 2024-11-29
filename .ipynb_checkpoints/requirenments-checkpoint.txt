@@ -1,0 +1,4 @@
+nbimporter==0.3.4
+pandas==2.0.1
+faker==18.5.0
+tkinter==8.6.12
